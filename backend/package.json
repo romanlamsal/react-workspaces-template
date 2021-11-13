@@ -1,0 +1,15 @@
+{
+  "name": "@lamsal-de/backend",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "nodemon": "^2.0.15"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon src/index.ts"
+  },
+  "version": "1.0.0"
+}
